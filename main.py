@@ -10,6 +10,7 @@ app = Flask(__name__)
 
 def get_meme():
     url = 'https://meme-api.com/gimme/3'
+    response.headers['Permissions-Policy'] = 'interest-cohort=()'
     response = json.loads(requests.request("GET", url).text)
     memes = response["memes"]
     # Extract the meme data for each meme in the response

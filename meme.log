@@ -505,7 +505,8 @@ AttributeError: module 'requests' has no attribute 'form'
 04/08/2023 12:21:55 PM https://preview.redd.it:443 "GET /h1jzxpn3wmsa1.png?width=320&crop=smart&auto=webp&v=enabled&s=730a793717b4ba82f8c2e5a04abf34d8a72df0c0 HTTP/1.1" 200 61097
 04/08/2023 12:21:55 PM Exception on /download [GET]
 Traceback (most recent call last):
-  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\P
+  ython\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
     response = self.full_dispatch_request()
   File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
     rv = self.handle_user_exception(e)
