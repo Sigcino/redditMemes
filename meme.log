@@ -1,0 +1,743 @@
+04/08/2023 10:43:49 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:43:49 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:44:45 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:44:45 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:44:59 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:44:59 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:45:04 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:45:05 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:45:05 AM {'postLink': 'https://redd.it/12ell1p', 'subreddit': 'me_irl', 'title': 'Me_irl', 'url': 'https://i.redd.it/mdppg3u5bisa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'Express_Buy5046', 'ups': 120, 'preview': ['https://preview.redd.it/mdppg3u5bisa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=aaffe5ef8fcad1da32f98da3a38b981ac0fb4b97', 'https://preview.redd.it/mdppg3u5bisa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=a52896330cc8ae9393b77c7b6091910f32435711', 'https://preview.redd.it/mdppg3u5bisa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=0402b7c7277fd82508af1e3bc58521aeff73dcd0', 'https://preview.redd.it/mdppg3u5bisa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=4e0bc157361eff77898be20218e85bf0f65a9581', 'https://preview.redd.it/mdppg3u5bisa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=953cdf394ca300c08f1e1e71a9de9391bc4b02be', 'https://preview.redd.it/mdppg3u5bisa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=d6b93e786dffbfe7bbfcee0f5a343b2c1ae9c225']}
+04/08/2023 10:45:05 AM 192.168.0.118 - - [08/Apr/2023 10:45:05] "GET / HTTP/1.1" 200 -
+04/08/2023 10:48:54 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:48:54 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:49:01 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:49:02 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:49:02 AM {'postLink': 'https://redd.it/12f563p', 'subreddit': 'dankmemes', 'title': 'Stage… one?', 'url': 'https://i.redd.it/mjm8qyomilsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'LemonConnoiseur', 'ups': 149, 'preview': ['https://preview.redd.it/mjm8qyomilsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=6bf0d0d3b7c13be9533a600d2eb1f7bd0320d7b0', 'https://preview.redd.it/mjm8qyomilsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=c68052edf6ac72346bae6d59816dfd62418b66e8', 'https://preview.redd.it/mjm8qyomilsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=eced5c0efdc24212146b355aa295f7dd14a17bd5', 'https://preview.redd.it/mjm8qyomilsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=0e70e03b8ac81912c0e20d9f1d93058d55506c3b', 'https://preview.redd.it/mjm8qyomilsa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=bc26e12f9070829b5a5189cc1e751a54f93b8615', 'https://preview.redd.it/mjm8qyomilsa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=d0ce830a3321ff9c4ff0fc8d231b194dbcc21385']}
+04/08/2023 10:49:02 AM 192.168.0.118 - - [08/Apr/2023 10:49:02] "GET / HTTP/1.1" 200 -
+04/08/2023 10:54:18 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:54:19 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:54:19 AM {'postLink': 'https://redd.it/12f9k8g', 'subreddit': 'memes', 'title': 'Ultimate morning pain', 'url': 'https://i.redd.it/1sv2kxincmsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'no_u8071', 'ups': 46, 'preview': ['https://preview.redd.it/1sv2kxincmsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=166d2d79361e3d10ef04d70eed4fcd1392fab679', 'https://preview.redd.it/1sv2kxincmsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=0bb595e22ab6d19f031c22194df7edb62b3f99dd', 'https://preview.redd.it/1sv2kxincmsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=820ccedaa36d40e0e8e495a28e1dc8da45df1b83', 'https://preview.redd.it/1sv2kxincmsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=201b2188af76f0dd6cbe87512b9edc62c852697b']}
+04/08/2023 10:54:19 AM 192.168.0.118 - - [08/Apr/2023 10:54:19] "GET / HTTP/1.1" 200 -
+04/08/2023 10:54:47 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:54:48 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:54:48 AM {'postLink': 'https://redd.it/12f8i59', 'subreddit': 'memes', 'title': "Yeah, I guess he's right", 'url': 'https://i.redd.it/0ggx7ed05msa1.png', 'nsfw': False, 'spoiler': False, 'author': 'Hornet_Scout', 'ups': 797, 'preview': ['https://preview.redd.it/0ggx7ed05msa1.png?width=108&crop=smart&auto=webp&v=enabled&s=ffd780c8ed709c0310912d81216c4845bede1bbb', 'https://preview.redd.it/0ggx7ed05msa1.png?width=216&crop=smart&auto=webp&v=enabled&s=4864b8c3efedbb6473d8e6b5b8483e523786eb03', 'https://preview.redd.it/0ggx7ed05msa1.png?width=320&crop=smart&auto=webp&v=enabled&s=2096b18246b05840372ca345d4ac4f149866ad69', 'https://preview.redd.it/0ggx7ed05msa1.png?width=640&crop=smart&auto=webp&v=enabled&s=d29be392f55968c34f4796e3c8f12edfeffd052a']}
+04/08/2023 10:54:48 AM 192.168.0.118 - - [08/Apr/2023 10:54:48] "GET / HTTP/1.1" 200 -
+04/08/2023 10:55:06 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:55:06 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:55:10 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:55:10 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:55:10 AM {'postLink': 'https://redd.it/12eoykq', 'subreddit': 'memes', 'title': 'Real Men', 'url': 'https://i.redd.it/5ds8ocf6visa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'HotPocket_Consumed', 'ups': 2184, 'preview': ['https://preview.redd.it/5ds8ocf6visa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=cfb2287cf5f1f06770dd874710beda9035bbe5c3', 'https://preview.redd.it/5ds8ocf6visa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=aafea0211e7f82ca6bb48b59b3b5cd5642bc0761', 'https://preview.redd.it/5ds8ocf6visa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=e81299207876ea231b8933ea9eb3f7f6125dd51d']}
+04/08/2023 10:55:10 AM 192.168.0.118 - - [08/Apr/2023 10:55:10] "GET / HTTP/1.1" 200 -
+04/08/2023 10:56:06 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:56:06 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:56:10 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:56:10 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:56:10 AM {'postLink': 'https://redd.it/12fdqbo', 'subreddit': 'memes', 'title': 'Gotcha binch!!!', 'url': 'https://i.redd.it/b5jqt9oobnsa1.gif', 'nsfw': False, 'spoiler': False, 'author': 'Dense00', 'ups': 24, 'preview': ['https://preview.redd.it/b5jqt9oobnsa1.gif?width=108&crop=smart&format=png8&v=enabled&s=272972bb9917236da95ef38a4768aba443b20ade', 'https://preview.redd.it/b5jqt9oobnsa1.gif?width=216&crop=smart&format=png8&v=enabled&s=758afb22e88299f016f598ad9f0a571c5f26694c', 'https://preview.redd.it/b5jqt9oobnsa1.gif?width=320&crop=smart&format=png8&v=enabled&s=a1a8b440952e3d5bd969890f6938fef9e41cd7c2']}
+04/08/2023 10:56:10 AM 192.168.0.118 - - [08/Apr/2023 10:56:10] "GET / HTTP/1.1" 200 -
+04/08/2023 10:59:00 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 10:59:00 AM [33mPress CTRL+C to quit[0m
+04/08/2023 10:59:03 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 10:59:04 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 10:59:04 AM {'postLink': 'https://redd.it/12ebwqz', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/7f9m8exu3gsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'iamcoollife1994', 'ups': 247, 'preview': ['https://preview.redd.it/7f9m8exu3gsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=de6fb3f0a56554e44b685a15cb369ceb47d4bf17', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=01f7d58189cea5e1772915615fbd7ae17e198b9b', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=39d9e214147d4f9fc4172ae390ad522938532864', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=fbabe22b17b69943c6dd98777ff644591faf6459', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=149611919146331d91c18601fb77733024add30b', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=ef55b46e1f9286f8d64d87c0734a0f631f0d171a']}
+04/08/2023 10:59:04 AM 192.168.0.118 - - [08/Apr/2023 10:59:04] "GET / HTTP/1.1" 200 -
+04/08/2023 11:00:01 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:00:01 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:00:05 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:00:05 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:00:05 AM {'postLink': 'https://redd.it/12ebwqz', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/7f9m8exu3gsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'iamcoollife1994', 'ups': 247, 'preview': ['https://preview.redd.it/7f9m8exu3gsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=de6fb3f0a56554e44b685a15cb369ceb47d4bf17', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=01f7d58189cea5e1772915615fbd7ae17e198b9b', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=39d9e214147d4f9fc4172ae390ad522938532864', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=fbabe22b17b69943c6dd98777ff644591faf6459', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=149611919146331d91c18601fb77733024add30b', 'https://preview.redd.it/7f9m8exu3gsa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=ef55b46e1f9286f8d64d87c0734a0f631f0d171a']}
+04/08/2023 11:00:05 AM 192.168.0.118 - - [08/Apr/2023 11:00:05] "GET / HTTP/1.1" 200 -
+04/08/2023 11:03:17 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:03:17 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:03:23 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:03:24 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:03:24 AM {'postLink': 'https://redd.it/12enpmq', 'subreddit': 'dankmemes', 'title': 'If you really have a need to know.', 'url': 'https://i.redd.it/59b9x7g0oisa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'TheRealAuthorSarge', 'ups': 94, 'preview': ['https://preview.redd.it/59b9x7g0oisa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=238dc2e33caf08a08034749ff9990fa81ba380fe', 'https://preview.redd.it/59b9x7g0oisa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=847de2d92d5cdac4247370991929ed36b23faafa', 'https://preview.redd.it/59b9x7g0oisa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=31becad6d992b39f2c3695b24a6ed6259112f66c']}
+04/08/2023 11:03:24 AM 192.168.0.118 - - [08/Apr/2023 11:03:24] "GET / HTTP/1.1" 200 -
+04/08/2023 11:03:55 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:03:55 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:03:59 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:04:00 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:04:00 AM {'postLink': 'https://redd.it/12f03yi', 'subreddit': 'memes', 'title': 'I am a man of principle', 'url': 'https://i.redd.it/mimrz04snksa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'Therealfern1', 'ups': 526, 'preview': ['https://preview.redd.it/mimrz04snksa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=c6d44dbdee258b7a84396d6d06050a94859e5bc9', 'https://preview.redd.it/mimrz04snksa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=8646b5b661c6ee2a60e87beae451887dec8563c6', 'https://preview.redd.it/mimrz04snksa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=5fab154891ce2a9d404a0e7c66d7a0952bf31b8b']}
+04/08/2023 11:04:00 AM 192.168.0.118 - - [08/Apr/2023 11:04:00] "GET / HTTP/1.1" 200 -
+04/08/2023 11:06:01 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:06:01 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:06:08 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:06:08 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:06:08 AM {'postLink': 'https://redd.it/12e7ovq', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/c8xdmxgr6fsa1.png', 'nsfw': False, 'spoiler': False, 'author': 'Doctor_Dollars', 'ups': 435, 'preview': ['https://preview.redd.it/c8xdmxgr6fsa1.png?width=108&crop=smart&auto=webp&v=enabled&s=626f23eb9b1395c6e32a8ae63a5db128812f8320', 'https://preview.redd.it/c8xdmxgr6fsa1.png?width=216&crop=smart&auto=webp&v=enabled&s=ef5ec0b453b318c86db53610e66aa71207a4898d', 'https://preview.redd.it/c8xdmxgr6fsa1.png?width=320&crop=smart&auto=webp&v=enabled&s=958eb26192a74c2be541ea16f3bf667d5d2ff7af', 'https://preview.redd.it/c8xdmxgr6fsa1.png?width=640&crop=smart&auto=webp&v=enabled&s=dc0e6973af098673cebe30bc836ff8e8b35482c3', 'https://preview.redd.it/c8xdmxgr6fsa1.png?width=960&crop=smart&auto=webp&v=enabled&s=c44d919396a12d015873b427252d34320e3bec7c', 'https://preview.redd.it/c8xdmxgr6fsa1.png?width=1080&crop=smart&auto=webp&v=enabled&s=53489a4e555c8361f5383cd0ee48b25636f20237']}
+04/08/2023 11:06:08 AM 192.168.0.118 - - [08/Apr/2023 11:06:08] "GET / HTTP/1.1" 200 -
+04/08/2023 11:07:25 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:07:25 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:07:29 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:07:30 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:07:30 AM {'postLink': 'https://redd.it/12etywq', 'subreddit': 'memes', 'title': 'The best day to post this', 'url': 'https://i.redd.it/pyr783p86isa1.png', 'nsfw': False, 'spoiler': False, 'author': 'pmcochr', 'ups': 497, 'preview': ['https://preview.redd.it/pyr783p86isa1.png?width=108&crop=smart&auto=webp&v=enabled&s=c5f5f0ff209bc8a3e1e0a15c3e872af9f96b7fda', 'https://preview.redd.it/pyr783p86isa1.png?width=216&crop=smart&auto=webp&v=enabled&s=bf0b5fe3bcd41669fcc550820731de39e506aae5', 'https://preview.redd.it/pyr783p86isa1.png?width=320&crop=smart&auto=webp&v=enabled&s=42d5acd419300201b449f795b899c3f14c7f8273', 'https://preview.redd.it/pyr783p86isa1.png?width=640&crop=smart&auto=webp&v=enabled&s=cadeaa3d322404cc4e1906d8136feddf1f196072', 'https://preview.redd.it/pyr783p86isa1.png?width=960&crop=smart&auto=webp&v=enabled&s=128107a1e90d6ecc0e4bbb21ad5829763af5041e', 'https://preview.redd.it/pyr783p86isa1.png?width=1080&crop=smart&auto=webp&v=enabled&s=7fc22606b2478f16c0871a3cfd2fa8ac2f9f59b9']}
+04/08/2023 11:07:30 AM 192.168.0.118 - - [08/Apr/2023 11:07:30] "GET / HTTP/1.1" 200 -
+04/08/2023 11:09:44 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:09:44 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:09:49 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:09:49 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:09:49 AM {'postLink': 'https://redd.it/12fdskm', 'subreddit': 'dankmemes', 'title': 'Rules are rules', 'url': 'https://i.redd.it/6dq1dv2acnsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'jared22r', 'ups': 34, 'preview': ['https://preview.redd.it/6dq1dv2acnsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=2d80eb826f07e081ebc3568abb3a5bd59d7be634', 'https://preview.redd.it/6dq1dv2acnsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=d44e3b04a3e8137002007f54152a1a9d9a2f0f98', 'https://preview.redd.it/6dq1dv2acnsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=e4f63700a18fb82d4a16b85df9b90071e1a5f834', 'https://preview.redd.it/6dq1dv2acnsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=c1197fe9a45ac279f612be914f2f0e77b6999dde']}
+04/08/2023 11:09:49 AM 192.168.0.118 - - [08/Apr/2023 11:09:49] "GET / HTTP/1.1" 200 -
+04/08/2023 11:12:13 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:12:13 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:12:18 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:12:18 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:12:18 AM {'postLink': 'https://redd.it/12edy96', 'subreddit': 'memes', 'title': 'whats stopping him from making it even 10x', 'url': 'https://i.redd.it/zukmlvj07fsa1.png', 'nsfw': False, 'spoiler': False, 'author': 'Major-Researcher-701', 'ups': 14726, 'preview': ['https://preview.redd.it/zukmlvj07fsa1.png?width=108&crop=smart&auto=webp&v=enabled&s=d9de7045b2215cd629d8fba0cfca89bb871291c6', 'https://preview.redd.it/zukmlvj07fsa1.png?width=216&crop=smart&auto=webp&v=enabled&s=c9e906b8b50d312d75784a7b98b807ce4f1133d2', 'https://preview.redd.it/zukmlvj07fsa1.png?width=320&crop=smart&auto=webp&v=enabled&s=898ddd3a614cf3a6db9c7e22698853d72330d2d9']}
+04/08/2023 11:12:18 AM 192.168.0.118 - - [08/Apr/2023 11:12:18] "GET / HTTP/1.1" 200 -
+04/08/2023 11:14:27 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:14:27 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:14:31 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:14:31 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:14:31 AM {'postLink': 'https://redd.it/12enh5p', 'subreddit': 'dankmemes', 'title': 'Gotta get that funeral clout', 'url': 'https://i.redd.it/spiusqtlmisa1.gif', 'nsfw': False, 'spoiler': False, 'author': 'Dutch_Midget', 'ups': 1147, 'preview': ['https://preview.redd.it/spiusqtlmisa1.gif?width=108&crop=smart&format=png8&v=enabled&s=f8edea8f274b49928a3bc1f97f4aebadb8ad9657', 'https://preview.redd.it/spiusqtlmisa1.gif?width=216&crop=smart&format=png8&v=enabled&s=db84adfffc3895790b8c4c5861ea8a734b15709e', 'https://preview.redd.it/spiusqtlmisa1.gif?width=320&crop=smart&format=png8&v=enabled&s=6f261ff8c980e8efc77fcf95531d11bbe1ac5f0d']}
+04/08/2023 11:14:31 AM 192.168.0.118 - - [08/Apr/2023 11:14:31] "GET / HTTP/1.1" 200 -
+04/08/2023 11:14:31 AM 192.168.0.118 - - [08/Apr/2023 11:14:31] "[33mGET /docs/5.0/assets/brand/bootstrap-logo.svg HTTP/1.1[0m" 404 -
+04/08/2023 11:16:03 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:16:03 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:16:03 AM {'postLink': 'https://redd.it/12erz56', 'subreddit': 'me_irl', 'title': 'Me_irl', 'url': 'https://i.redd.it/cmcbfuzdcjsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'emmjaymax', 'ups': 94, 'preview': ['https://preview.redd.it/cmcbfuzdcjsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=05b9cc566b484e6daec4e65949722182b37f8a94', 'https://preview.redd.it/cmcbfuzdcjsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=06fcee0ec7f81d4973db9ad316abafff5f614f34', 'https://preview.redd.it/cmcbfuzdcjsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=154fbd9b6bf9676f9ec237c510677224d2d03e5e', 'https://preview.redd.it/cmcbfuzdcjsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=0913f9ce91de93807c879dff444142c4d1f54478']}
+04/08/2023 11:16:03 AM 192.168.0.118 - - [08/Apr/2023 11:16:03] "GET / HTTP/1.1" 200 -
+04/08/2023 11:16:03 AM 192.168.0.118 - - [08/Apr/2023 11:16:03] "[33mGET /docs/5.0/assets/brand/bootstrap-logo.svg HTTP/1.1[0m" 404 -
+04/08/2023 11:16:33 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:16:33 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:16:33 AM {'postLink': 'https://redd.it/12feuby', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/ua2c1jge5msa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'BreadHasAGun', 'ups': 19, 'preview': ['https://preview.redd.it/ua2c1jge5msa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=27aad636bfebe57b0fe1dd4aa2794233de99b28a', 'https://preview.redd.it/ua2c1jge5msa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=16ec52731d5dafdcc87c64695475b48191097fba', 'https://preview.redd.it/ua2c1jge5msa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=6d43be24995c2c9bacfc8dd1fca62d223a67a3df', 'https://preview.redd.it/ua2c1jge5msa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=50cd7d185ea12ce0c636d2c73197ecdd863a3b5c']}
+04/08/2023 11:16:33 AM 192.168.0.118 - - [08/Apr/2023 11:16:33] "GET / HTTP/1.1" 200 -
+04/08/2023 11:16:33 AM 192.168.0.118 - - [08/Apr/2023 11:16:33] "[33mGET /docs/5.0/assets/brand/bootstrap-logo.svg HTTP/1.1[0m" 404 -
+04/08/2023 11:17:15 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:17:15 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:17:19 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:17:19 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:17:19 AM {'postLink': 'https://redd.it/12evzv5', 'subreddit': 'me_irl', 'title': 'Me_irl', 'url': 'https://i.redd.it/824v0k91iisa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'anagogicrattrap', 'ups': 44, 'preview': ['https://preview.redd.it/824v0k91iisa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=dc5ff4b1c6f3bd1f902c5268d6ae01dfa69adb80', 'https://preview.redd.it/824v0k91iisa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=0be597c2ed12216d89212b4e51d987fa0ca35f8a', 'https://preview.redd.it/824v0k91iisa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=96b5e42ea899595a289abb24f61ad3806c89b07d']}
+04/08/2023 11:17:19 AM 192.168.0.118 - - [08/Apr/2023 11:17:19] "GET / HTTP/1.1" 200 -
+04/08/2023 11:18:30 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:18:30 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:18:35 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:18:36 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:18:36 AM {'postLink': 'https://redd.it/12ely1d', 'subreddit': 'me_irl', 'title': 'Me_irl', 'url': 'https://i.redd.it/sodoftwedisa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'Zopo135', 'ups': 48, 'preview': ['https://preview.redd.it/sodoftwedisa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=d43fc48c12e268b5bd523de2cbaf08e9a42361ad', 'https://preview.redd.it/sodoftwedisa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=34adf920536fc663686e8ae149bcd43ed5819edc', 'https://preview.redd.it/sodoftwedisa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=a5f5e457bb19147fb975e98b3c66f5f16d21c0d7', 'https://preview.redd.it/sodoftwedisa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=eb6ae2744f226e3d037beba66baa44dfd5f4ab70']}
+04/08/2023 11:18:36 AM 192.168.0.118 - - [08/Apr/2023 11:18:36] "GET / HTTP/1.1" 200 -
+04/08/2023 11:19:20 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:19:20 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:19:23 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:19:23 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:19:23 AM {'postLink': 'https://redd.it/12eqnjp', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/01o2c9bxbgsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'lChromel', 'ups': 205, 'preview': ['https://preview.redd.it/01o2c9bxbgsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=aa5ccfbc423fc961182a75b0c8e253631ee385f7', 'https://preview.redd.it/01o2c9bxbgsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=0213cd02afe3ec5fc4e1522dc78953d22f1baa00', 'https://preview.redd.it/01o2c9bxbgsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=1718e425e775db93e68ad644a6f83d3d2b024881']}
+04/08/2023 11:19:23 AM 192.168.0.118 - - [08/Apr/2023 11:19:23] "GET / HTTP/1.1" 200 -
+04/08/2023 11:19:50 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:19:50 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:19:52 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:19:53 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:19:53 AM {'postLink': 'https://redd.it/12eui1z', 'subreddit': 'me_irl', 'title': 'me🤠irl', 'url': 'https://i.redd.it/6l090aud9isa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'nivniv002', 'ups': 49, 'preview': ['https://preview.redd.it/6l090aud9isa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=a64f516bf15d7537dfe90ee47e60b2d8af5b45f2', 'https://preview.redd.it/6l090aud9isa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=b78913a838c077499ffd38ec23dce26e1774d835', 'https://preview.redd.it/6l090aud9isa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=82d3b64ad3935f47d2d37e5b1a31fa9ebe35a40d', 'https://preview.redd.it/6l090aud9isa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=70935172f011ae6f32f0f6835d5ce0938c53ebb2', 'https://preview.redd.it/6l090aud9isa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=353f9022bb3f73bbe258caecd8ad5d6575c9880c', 'https://preview.redd.it/6l090aud9isa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=5f4dfa28d08c25cbdb8fe303e3b019a3fb606c42']}
+04/08/2023 11:19:53 AM 192.168.0.118 - - [08/Apr/2023 11:19:53] "GET / HTTP/1.1" 200 -
+04/08/2023 11:21:04 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:21:04 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:21:10 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:21:11 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:21:11 AM {'postLink': 'https://redd.it/12f69sm', 'subreddit': 'memes', 'title': '&lt;microwave ramen noises&gt;', 'url': 'https://i.redd.it/nqh3lgl58ksa1.png', 'nsfw': False, 'spoiler': False, 'author': 'ChakatStormCloud', 'ups': 150, 'preview': ['https://preview.redd.it/nqh3lgl58ksa1.png?width=108&crop=smart&auto=webp&v=enabled&s=db44c03f1a6b00e56032394161897f0e35faad37', 'https://preview.redd.it/nqh3lgl58ksa1.png?width=216&crop=smart&auto=webp&v=enabled&s=72b70b7f61abd81a0e340bb6fa18aaff206dd626', 'https://preview.redd.it/nqh3lgl58ksa1.png?width=320&crop=smart&auto=webp&v=enabled&s=0bf030d0665923a77b446afbb96f9caa9fbcc0e4', 'https://preview.redd.it/nqh3lgl58ksa1.png?width=640&crop=smart&auto=webp&v=enabled&s=d2e742621f67736f3ad73694105cea366f3b72fc']}
+04/08/2023 11:21:11 AM 192.168.0.118 - - [08/Apr/2023 11:21:11] "GET / HTTP/1.1" 200 -
+04/08/2023 11:21:34 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:21:34 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:21:38 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:21:38 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:21:38 AM Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 23, in index
+    meme_pic, subreddit = get_meme()
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 14, in get_meme
+    meme_large = response["preview"][-2]
+IndexError: list index out of range
+04/08/2023 11:21:38 AM 192.168.0.118 - - [08/Apr/2023 11:21:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+04/08/2023 11:21:40 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:21:41 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:21:41 AM {'postLink': 'https://redd.it/12eukz6', 'subreddit': 'memes', 'title': 'come on, do something!', 'url': 'https://i.redd.it/k26pd3hw9isa1.png', 'nsfw': False, 'spoiler': False, 'author': 'EnvironmentProud607', 'ups': 663, 'preview': ['https://preview.redd.it/k26pd3hw9isa1.png?width=108&crop=smart&auto=webp&v=enabled&s=66ac441535af131e245f315e420adc3f5cceff3b', 'https://preview.redd.it/k26pd3hw9isa1.png?width=216&crop=smart&auto=webp&v=enabled&s=edb742894da4248d00839851e37f25a36f8b1d3f', 'https://preview.redd.it/k26pd3hw9isa1.png?width=320&crop=smart&auto=webp&v=enabled&s=d3cdfb1037afcb3734ecc2dae87d0b658ed2e500']}
+04/08/2023 11:21:41 AM 192.168.0.118 - - [08/Apr/2023 11:21:41] "GET / HTTP/1.1" 200 -
+04/08/2023 11:23:09 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:23:09 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:23:20 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:23:20 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:23:31 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:23:32 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:23:32 AM {'postLink': 'https://redd.it/12eui1z', 'subreddit': 'me_irl', 'title': 'me🤠irl', 'url': 'https://i.redd.it/6l090aud9isa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'nivniv002', 'ups': 49, 'preview': ['https://preview.redd.it/6l090aud9isa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=a64f516bf15d7537dfe90ee47e60b2d8af5b45f2', 'https://preview.redd.it/6l090aud9isa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=b78913a838c077499ffd38ec23dce26e1774d835', 'https://preview.redd.it/6l090aud9isa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=82d3b64ad3935f47d2d37e5b1a31fa9ebe35a40d', 'https://preview.redd.it/6l090aud9isa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=70935172f011ae6f32f0f6835d5ce0938c53ebb2', 'https://preview.redd.it/6l090aud9isa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=353f9022bb3f73bbe258caecd8ad5d6575c9880c', 'https://preview.redd.it/6l090aud9isa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=5f4dfa28d08c25cbdb8fe303e3b019a3fb606c42']}
+04/08/2023 11:23:32 AM 192.168.0.118 - - [08/Apr/2023 11:23:32] "GET / HTTP/1.1" 200 -
+04/08/2023 11:23:34 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:23:35 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:23:35 AM {'postLink': 'https://redd.it/12ezjo5', 'subreddit': 'memes', 'title': 'Might just be', 'url': 'https://i.redd.it/76qzyldfkksa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'Atypesbrandon', 'ups': 219, 'preview': ['https://preview.redd.it/76qzyldfkksa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=380fbb060df0f2fe9a9fcba3c284d1f99a0750eb', 'https://preview.redd.it/76qzyldfkksa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=8f16277c18ef0203e71d5dc20b8efcf744780edf', 'https://preview.redd.it/76qzyldfkksa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=609e7ca5f808d232c71c6c0adf2bf68486c0a8b2', 'https://preview.redd.it/76qzyldfkksa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=1d3c1959087dd5305b4ade0323eb498b45865442']}
+04/08/2023 11:23:35 AM 192.168.0.118 - - [08/Apr/2023 11:23:35] "GET / HTTP/1.1" 200 -
+04/08/2023 11:23:48 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:23:48 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:24:11 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:24:11 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:24:39 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:24:39 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:25:31 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:25:31 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:25:45 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:25:45 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:25:45 AM {'postLink': 'https://redd.it/12fdg3r', 'subreddit': 'me_irl', 'title': 'me_irl', 'url': 'https://i.redd.it/74nympqq8nsa1.jpg', 'nsfw': False, 'spoiler': False, 'author': 'ilovekerma', 'ups': 8, 'preview': ['https://preview.redd.it/74nympqq8nsa1.jpg?width=108&crop=smart&auto=webp&v=enabled&s=880d6e69e7655ddd0b6647192157ed6e699edbb6', 'https://preview.redd.it/74nympqq8nsa1.jpg?width=216&crop=smart&auto=webp&v=enabled&s=c89c28d01dbd5b4cd3c9279b1aa3f6e6ebf0ca3a', 'https://preview.redd.it/74nympqq8nsa1.jpg?width=320&crop=smart&auto=webp&v=enabled&s=d746afdc3962ff20fc1835aa9335ceebc3eb8c5e', 'https://preview.redd.it/74nympqq8nsa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=e6188cb243e0b17b18d8febd016c5a8337b0952c', 'https://preview.redd.it/74nympqq8nsa1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=c367aee22e7f98486723e02f50d28137677a618a', 'https://preview.redd.it/74nympqq8nsa1.jpg?width=1080&crop=smart&auto=webp&v=enabled&s=cc379daaa6ed547def8c1324d56e35e4bf6a7a6e']}
+04/08/2023 11:25:45 AM 192.168.0.118 - - [08/Apr/2023 11:25:45] "GET / HTTP/1.1" 200 -
+04/08/2023 11:34:49 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:34:50 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:34:50 AM {'postLink': 'https://redd.it/12dndw6', 'subreddit': 'dankmemes', 'title': 'Now where do they stock the gummy vitamins?..', 'url': 'https://i.redd.it/izwj40runbsa1.gif', 'nsfw': False, 'spoiler': False, 'author': 'thepositivepandemic', 'ups': 9733, 'preview': ['https://preview.redd.it/izwj40runbsa1.gif?width=108&crop=smart&format=png8&v=enabled&s=f83ecb83a8f71c632c096b0cdfc661f06f1c9158', 'https://preview.redd.it/izwj40runbsa1.gif?width=216&crop=smart&format=png8&v=enabled&s=68e6ccdda7be3cf5f3d311deb90d391fb407ca52', 'https://preview.redd.it/izwj40runbsa1.gif?width=320&crop=smart&format=png8&v=enabled&s=8954681835e65709ec69a07d60e672a6394b648a', 'https://preview.redd.it/izwj40runbsa1.gif?width=640&crop=smart&format=png8&v=enabled&s=29c13aaa90a3abd7f6cd7151c37b365015914a88']}
+04/08/2023 11:34:50 AM 192.168.0.118 - - [08/Apr/2023 11:34:50] "GET / HTTP/1.1" 200 -
+04/08/2023 11:35:48 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:35:48 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:35:52 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:35:52 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:35:52 AM 192.168.0.118 - - [08/Apr/2023 11:35:52] "GET / HTTP/1.1" 200 -
+04/08/2023 11:38:27 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:38:27 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:38:29 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:38:30 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:38:30 AM 192.168.0.118 - - [08/Apr/2023 11:38:30] "GET / HTTP/1.1" 200 -
+04/08/2023 11:40:40 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:40:40 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:40:44 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:40:45 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:40:45 AM 192.168.0.118 - - [08/Apr/2023 11:40:45] "GET / HTTP/1.1" 200 -
+04/08/2023 11:48:46 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:48:46 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:48:51 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:48:52 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:48:52 AM 192.168.0.118 - - [08/Apr/2023 11:48:52] "GET / HTTP/1.1" 200 -
+04/08/2023 11:49:25 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:49:25 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:49:30 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:49:30 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:49:30 AM 192.168.0.118 - - [08/Apr/2023 11:49:30] "GET / HTTP/1.1" 200 -
+04/08/2023 11:49:58 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:49:58 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:50:02 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:03 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:03 AM 192.168.0.118 - - [08/Apr/2023 11:50:03] "GET / HTTP/1.1" 200 -
+04/08/2023 11:50:08 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:08 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:08 AM 192.168.0.118 - - [08/Apr/2023 11:50:08] "GET / HTTP/1.1" 200 -
+04/08/2023 11:50:11 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:12 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:12 AM 192.168.0.118 - - [08/Apr/2023 11:50:12] "GET / HTTP/1.1" 200 -
+04/08/2023 11:50:13 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:13 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:13 AM 192.168.0.118 - - [08/Apr/2023 11:50:13] "GET / HTTP/1.1" 200 -
+04/08/2023 11:50:14 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:15 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:15 AM 192.168.0.118 - - [08/Apr/2023 11:50:15] "GET / HTTP/1.1" 200 -
+04/08/2023 11:50:29 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:50:30 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:50:30 AM 192.168.0.118 - - [08/Apr/2023 11:50:30] "GET / HTTP/1.1" 200 -
+04/08/2023 11:51:38 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:51:38 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:51:45 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:51:45 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:51:45 AM 192.168.0.118 - - [08/Apr/2023 11:51:45] "GET / HTTP/1.1" 200 -
+04/08/2023 11:53:40 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:53:40 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:53:50 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:53:50 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:53:50 AM 192.168.0.118 - - [08/Apr/2023 11:53:50] "GET / HTTP/1.1" 200 -
+04/08/2023 11:54:01 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:54:01 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:54:01 AM 192.168.0.118 - - [08/Apr/2023 11:54:01] "GET / HTTP/1.1" 200 -
+04/08/2023 11:54:49 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:54:49 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:54:52 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:54:52 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:54:52 AM 192.168.0.118 - - [08/Apr/2023 11:54:52] "GET / HTTP/1.1" 200 -
+04/08/2023 11:57:36 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:57:36 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:57:43 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:57:43 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:57:43 AM 192.168.0.118 - - [08/Apr/2023 11:57:43] "GET / HTTP/1.1" 200 -
+04/08/2023 11:58:07 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:58:07 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:58:11 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:58:13 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:58:13 AM 192.168.0.118 - - [08/Apr/2023 11:58:13] "GET / HTTP/1.1" 200 -
+04/08/2023 11:58:50 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:58:50 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:58:52 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:58:53 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:58:53 AM 192.168.0.118 - - [08/Apr/2023 11:58:53] "GET / HTTP/1.1" 200 -
+04/08/2023 11:59:32 AM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 11:59:32 AM [33mPress CTRL+C to quit[0m
+04/08/2023 11:59:35 AM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 11:59:35 AM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 11:59:35 AM 192.168.0.118 - - [08/Apr/2023 11:59:35] "GET / HTTP/1.1" 200 -
+04/08/2023 12:00:24 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:00:24 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:00:28 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:00:29 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:00:29 PM 192.168.0.118 - - [08/Apr/2023 12:00:29] "GET / HTTP/1.1" 200 -
+04/08/2023 12:00:52 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:00:53 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:00:53 PM 192.168.0.118 - - [08/Apr/2023 12:00:53] "GET / HTTP/1.1" 200 -
+04/08/2023 12:00:55 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:00:55 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:00:55 PM 192.168.0.118 - - [08/Apr/2023 12:00:55] "GET / HTTP/1.1" 200 -
+04/08/2023 12:00:56 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:00:57 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:00:57 PM 192.168.0.118 - - [08/Apr/2023 12:00:57] "GET / HTTP/1.1" 200 -
+04/08/2023 12:00:59 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:00:59 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:00:59 PM 192.168.0.118 - - [08/Apr/2023 12:00:59] "GET / HTTP/1.1" 200 -
+04/08/2023 12:01:00 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:01:01 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:01:01 PM 192.168.0.118 - - [08/Apr/2023 12:01:01] "GET / HTTP/1.1" 200 -
+04/08/2023 12:01:06 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:01:06 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:01:06 PM 192.168.0.118 - - [08/Apr/2023 12:01:06] "GET / HTTP/1.1" 200 -
+04/08/2023 12:01:07 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:01:08 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:01:08 PM 192.168.0.118 - - [08/Apr/2023 12:01:08] "GET / HTTP/1.1" 200 -
+04/08/2023 12:01:09 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:01:09 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:01:09 PM 192.168.0.118 - - [08/Apr/2023 12:01:09] "GET / HTTP/1.1" 200 -
+04/08/2023 12:01:10 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:01:10 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:01:10 PM 192.168.0.118 - - [08/Apr/2023 12:01:10] "GET / HTTP/1.1" 200 -
+04/08/2023 12:02:22 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:02:22 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:02:25 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:02:25 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:02:25 PM 192.168.0.118 - - [08/Apr/2023 12:02:25] "GET / HTTP/1.1" 200 -
+04/08/2023 12:03:11 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:03:11 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:03:15 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:03:16 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:03:16 PM 192.168.0.118 - - [08/Apr/2023 12:03:16] "GET / HTTP/1.1" 200 -
+04/08/2023 12:08:03 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:08:03 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:08:09 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:08:09 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:08:09 PM 192.168.0.118 - - [08/Apr/2023 12:08:09] "GET / HTTP/1.1" 200 -
+04/08/2023 12:08:13 PM Exception on /download_meme [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 26, in download_meme
+    save_path = requests.args.get('save_path')
+AttributeError: module 'requests' has no attribute 'args'
+04/08/2023 12:08:13 PM 192.168.0.118 - - [08/Apr/2023 12:08:13] "[35m[1mGET /download_meme?save_path=YOUR_SAVE_PATH_HERE HTTP/1.1[0m" 500 -
+04/08/2023 12:08:57 PM Exception on /download_meme [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 26, in download_meme
+    save_path = requests.args.get('save_path')
+AttributeError: module 'requests' has no attribute 'args'
+04/08/2023 12:08:57 PM 192.168.0.118 - - [08/Apr/2023 12:08:57] "[35m[1mGET /download_meme?save_path=YOUR_SAVE_PATH_HERE HTTP/1.1[0m" 500 -
+04/08/2023 12:18:59 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:18:59 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:19:04 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:19:05 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:19:05 PM 192.168.0.118 - - [08/Apr/2023 12:19:05] "GET / HTTP/1.1" 200 -
+04/08/2023 12:19:17 PM Exception on /download [POST]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 23, in download
+    meme_large = requests.form.get('meme_large')
+AttributeError: module 'requests' has no attribute 'form'
+04/08/2023 12:19:17 PM 192.168.0.118 - - [08/Apr/2023 12:19:17] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+04/08/2023 12:21:48 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:21:48 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:21:52 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:21:52 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:21:52 PM 192.168.0.118 - - [08/Apr/2023 12:21:52] "GET / HTTP/1.1" 200 -
+04/08/2023 12:21:54 PM Starting new HTTPS connection (1): preview.redd.it:443
+04/08/2023 12:21:55 PM https://preview.redd.it:443 "GET /h1jzxpn3wmsa1.png?width=320&crop=smart&auto=webp&v=enabled&s=730a793717b4ba82f8c2e5a04abf34d8a72df0c0 HTTP/1.1" 200 61097
+04/08/2023 12:21:55 PM Exception on /download [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 26, in download
+    with open(filename, 'wb') as f:
+OSError: [Errno 22] Invalid argument: 'h1jzxpn3wmsa1.png?width=320&crop=smart&auto=webp&v=enabled&s=730a793717b4ba82f8c2e5a04abf34d8a72df0c0'
+04/08/2023 12:21:55 PM 192.168.0.118 - - [08/Apr/2023 12:21:55] "[35m[1mGET /download?meme_url=https%3A%2F%2Fpreview.redd.it%2Fh1jzxpn3wmsa1.png%3Fwidth%3D320%26crop%3Dsmart%26auto%3Dwebp%26v%3Denabled%26s%3D730a793717b4ba82f8c2e5a04abf34d8a72df0c0 HTTP/1.1[0m" 500 -
+04/08/2023 12:26:31 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:26:31 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:26:43 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:26:48 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:26:48 PM 192.168.0.118 - - [08/Apr/2023 12:26:48] "GET / HTTP/1.1" 200 -
+04/08/2023 12:27:20 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:27:20 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:27:22 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:27:24 PM https://meme-api.com:443 "GET /gimme HTTP/1.1" 200 None
+04/08/2023 12:27:24 PM 192.168.0.118 - - [08/Apr/2023 12:27:24] "GET / HTTP/1.1" 200 -
+04/08/2023 12:41:43 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:41:43 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:41:49 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:41:49 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:41:49 PM Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 30, in index
+    return render_template("home.html", memes=memes)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\templates\home.html", line 40, in template
+    <a href="{{meme['postLink']}}" class="card-link link-secondary">
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+04/08/2023 12:41:49 PM 192.168.0.118 - - [08/Apr/2023 12:41:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+04/08/2023 12:41:57 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:41:58 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:41:58 PM Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\main.py", line 30, in index
+    return render_template("home.html", memes=memes)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 146, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\loaders.py", line 138, in load
+    code = environment.compile(source, name, filename)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 768, in compile
+    self.handle_exception(source=source_hint)
+  File "C:\Users\CCGSYSTEMS\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "c:\Users\CCGSYSTEMS\Documents\Work\Personal\Project\memeAday\templates\home.html", line 40, in template
+    <a href="{{meme['postLink']}}" class="card-link link-secondary">
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'endfor' or 'else'. The innermost block that needs to be closed is 'for'.
+04/08/2023 12:41:58 PM 192.168.0.118 - - [08/Apr/2023 12:41:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+04/08/2023 12:42:41 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:42:41 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:42:45 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:42:46 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:42:46 PM 192.168.0.118 - - [08/Apr/2023 12:42:46] "GET / HTTP/1.1" 200 -
+04/08/2023 12:43:51 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:43:51 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:43:52 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:43:53 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:43:53 PM 192.168.0.118 - - [08/Apr/2023 12:43:53] "GET / HTTP/1.1" 200 -
+04/08/2023 12:44:11 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:44:11 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:44:18 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:44:19 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:44:19 PM 192.168.0.118 - - [08/Apr/2023 12:44:19] "GET / HTTP/1.1" 200 -
+04/08/2023 12:45:22 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:45:22 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:45:33 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:45:34 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:45:34 PM 192.168.0.118 - - [08/Apr/2023 12:45:34] "GET / HTTP/1.1" 200 -
+04/08/2023 12:46:46 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:46:46 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:46:50 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:46:51 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:46:51 PM 192.168.0.118 - - [08/Apr/2023 12:46:51] "GET / HTTP/1.1" 200 -
+04/08/2023 12:54:22 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:54:22 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:54:27 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:54:28 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:54:28 PM 192.168.0.118 - - [08/Apr/2023 12:54:28] "GET / HTTP/1.1" 200 -
+04/08/2023 12:54:57 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:54:57 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:55:05 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:55:06 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:55:06 PM 192.168.0.118 - - [08/Apr/2023 12:55:06] "GET / HTTP/1.1" 200 -
+04/08/2023 12:55:36 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:55:36 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:55:38 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:55:39 PM https://meme-api.com:443 "GET /gimme/10 HTTP/1.1" 200 None
+04/08/2023 12:55:39 PM 192.168.0.118 - - [08/Apr/2023 12:55:39] "GET / HTTP/1.1" 200 -
+04/08/2023 12:57:04 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:57:04 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:57:07 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:57:07 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:57:07 PM 192.168.0.118 - - [08/Apr/2023 12:57:07] "GET / HTTP/1.1" 200 -
+04/08/2023 12:57:25 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:57:25 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:57:25 PM 192.168.0.118 - - [08/Apr/2023 12:57:25] "GET / HTTP/1.1" 200 -
+04/08/2023 12:58:16 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:58:16 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:58:18 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:58:19 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:58:19 PM 192.168.0.118 - - [08/Apr/2023 12:58:19] "GET / HTTP/1.1" 200 -
+04/08/2023 12:59:51 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 12:59:51 PM [33mPress CTRL+C to quit[0m
+04/08/2023 12:59:54 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 12:59:55 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 12:59:55 PM 192.168.0.118 - - [08/Apr/2023 12:59:55] "GET / HTTP/1.1" 200 -
+04/08/2023 01:00:19 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:00:19 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:00:23 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:00:24 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:00:24 PM 192.168.0.118 - - [08/Apr/2023 13:00:24] "GET / HTTP/1.1" 200 -
+04/08/2023 01:00:48 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:00:48 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:00:52 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:00:52 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:00:52 PM 192.168.0.118 - - [08/Apr/2023 13:00:52] "GET / HTTP/1.1" 200 -
+04/08/2023 01:06:19 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:06:19 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:06:23 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:06:24 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:06:24 PM 192.168.0.118 - - [08/Apr/2023 13:06:24] "GET / HTTP/1.1" 200 -
+04/08/2023 01:07:43 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:07:43 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:07:48 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:07:48 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:07:48 PM 192.168.0.118 - - [08/Apr/2023 13:07:48] "GET / HTTP/1.1" 200 -
+04/08/2023 01:08:30 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:08:30 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:08:32 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:08:33 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:08:33 PM 192.168.0.118 - - [08/Apr/2023 13:08:33] "GET / HTTP/1.1" 200 -
+04/08/2023 01:09:31 PM [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8089
+ * Running on http://192.168.0.118:8089
+04/08/2023 01:09:31 PM [33mPress CTRL+C to quit[0m
+04/08/2023 01:09:35 PM Starting new HTTPS connection (1): meme-api.com:443
+04/08/2023 01:09:35 PM https://meme-api.com:443 "GET /gimme/3 HTTP/1.1" 200 None
+04/08/2023 01:09:35 PM 192.168.0.118 - - [08/Apr/2023 13:09:35] "GET / HTTP/1.1" 200 -
